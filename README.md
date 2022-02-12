@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PilotLocus
+- 👀 I’m interested in Avation
+- 🌱 I’m currently learning coding and school
+- 💞️ I’m looking to collaborate on Flight simulators and airports.
+- 📫 How to reach me: https://discord.com/channels/935903757038940161/935903757038940164
